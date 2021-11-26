@@ -1,4 +1,4 @@
-# Titlu Master/Magie/Develop
+# Titlu Coleg2
 
 ## Subtitlu master
 
